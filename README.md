@@ -1,2 +1,3 @@
 # plagiarism-detector
-Using Machine Learning startegies to detect plagiarism online
+Using Machine Learning strategies to detect plagiarism online using datasets
+Dataset: https://github.com/lutzhamel/fake-news
